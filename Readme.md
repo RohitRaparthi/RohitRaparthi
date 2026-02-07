@@ -102,8 +102,8 @@
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: _Add your LinkedIn URL_
-- 📧 Email: _Add your email_
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-raparthi/
+- 📧 Email: rohit.raparthi2003@gmail.com
 
 ---
 
