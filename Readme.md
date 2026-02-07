@@ -18,7 +18,7 @@
 ### ⚙️ Backend
 - Node.js
 - Express.js
-- Python (Basics)
+- Python
 
 ### 🗄️ Database
 - SQL
